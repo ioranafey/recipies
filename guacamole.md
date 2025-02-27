@@ -11,4 +11,4 @@
 
 ## Instructions
 
-Open avocado
+Open avocado, mash it
