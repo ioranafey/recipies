@@ -1,6 +1,0 @@
-# Lemon drizzle 
-
-## Ingredients
-
-- lemons
-
